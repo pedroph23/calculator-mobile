@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test function render return render Button 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  isTVSelectable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={null}
+>
+  <Text
+    style={
+      Object {
+        "backgroundColor": "#626561",
+        "borderColor": "#18191d",
+        "borderWidth": 0.2,
+        "color": "white",
+        "fontSize": 35,
+        "height": 187.5,
+        "paddingRight": 10,
+        "paddingTop": 25,
+        "textAlign": "center",
+        "width": 187.5,
+      }
+    }
+  >
+     
+    0
+  </Text>
+</View>
+`;
+
+exports[`Test function render return render ButtonDouble 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  isTVSelectable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={null}
+>
+  <Text
+    style={
+      Object {
+        "backgroundColor": "#fe9f09",
+        "borderColor": "#18191d",
+        "borderWidth": 0.2,
+        "color": "white",
+        "fontSize": 35,
+        "height": 187.5,
+        "paddingRight": 10,
+        "paddingTop": 25,
+        "textAlign": "center",
+        "width": 375,
+      }
+    }
+  >
+     
+    0
+  </Text>
+</View>
+`;
+
+exports[`Test function render return render ButtonOperations 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  isTVSelectable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={null}
+>
+  <Text
+    style={
+      Object {
+        "backgroundColor": "#fe9f09",
+        "borderColor": "#18191d",
+        "borderWidth": 0.2,
+        "color": "white",
+        "fontSize": 35,
+        "height": 187.5,
+        "paddingRight": 10,
+        "paddingTop": 25,
+        "textAlign": "center",
+        "width": 187.5,
+      }
+    }
+  >
+     
+    0
+  </Text>
+</View>
+`;
