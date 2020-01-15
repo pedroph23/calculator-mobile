@@ -1,2 +1,2 @@
-# calculator-mobile
+# Calculator
 Calculator for IOS/Android 
