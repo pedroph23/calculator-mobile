@@ -9,10 +9,10 @@ import { Button, ButtonOperations, ButtonDouble } from '../src/components/button
 
 beforeEach(() => {
   jest.resetModules();
-  // console.log = () => {};
-  // console.warn = () => {};
-  // console.info = () => {};
-  // console.error = () => {};
+  console.log = () => {};
+  console.warn = () => {};
+  console.info = () => {};
+  console.error = () => {};
 });
 describe('Test Class App', () => {
   test('execute App and validate yours props and your type', () => {
